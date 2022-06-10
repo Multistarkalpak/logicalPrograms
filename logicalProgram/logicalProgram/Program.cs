@@ -16,8 +16,14 @@ namespace logicalProgram
             //primeNumber num = new primeNumber();
             //num.primenumber();
 
-            reverseNumber number = new reverseNumber();
-            number.Reverse_number();
+            //reverseNumber number = new reverseNumber();
+            //number.Reverse_number();
+
+            //couponNumber coup = new couponNumber();
+            //coup.CoupoNum();
+
+            StopWatch st = new StopWatch();
+            st.Stop_Watch();
         }
     }   
 }
