@@ -13,11 +13,11 @@ namespace logicalProgram
             //perfectNumber num = new perfectNumber();
             //num.perfectnum();
 
-            primeNumber num = new primeNumber();
-            num.primenumber();
+            //primeNumber num = new primeNumber();
+            //num.primenumber();
 
-            //reverseNumber number = new reverseNumber();
-            //number.Reverse_number();
+            reverseNumber number = new reverseNumber();
+            number.Reverse_number();
         }
     }   
 }
