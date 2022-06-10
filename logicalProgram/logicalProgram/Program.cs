@@ -10,11 +10,11 @@ namespace logicalProgram
             //Fibonacci fib = new Fibonacci();
             //fib.fibonacci();
 
-            perfectNumber num = new perfectNumber();
-            num.perfectnum();
+            //perfectNumber num = new perfectNumber();
+            //num.perfectnum();
 
-            //primeNumber num = new primeNumber();
-            //num.primenumber();
+            primeNumber num = new primeNumber();
+            num.primenumber();
 
             //reverseNumber number = new reverseNumber();
             //number.Reverse_number();
